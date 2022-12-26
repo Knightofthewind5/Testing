@@ -1,0 +1,15 @@
+Mon Dec 26 17:24:42 2022 UTC - GameOverlay process started: pid: 32500
+Mon Dec 26 17:24:42 2022 UTC - GameOverlay process connecting to: pid: 29944
+Mon Dec 26 17:24:42 2022 UTC - BuildID: 1671236931
+Mon Dec 26 17:24:42 2022 UTC - Steam Path: C:\Program Files (x86)\Steam
+Mon Dec 26 17:24:42 2022 UTC - Got gameid on commandline: 480
+Mon Dec 26 17:24:42 2022 UTC - PNG load warning iCCP: known incorrect sRGB profile
+Mon Dec 26 17:24:42 2022 UTC - PNG load warning iCCP: known incorrect sRGB profile
+Mon Dec 26 17:24:42 2022 UTC - PNG load warning iCCP: known incorrect sRGB profile
+Mon Dec 26 17:24:42 2022 UTC - PNG load warning iCCP: known incorrect sRGB profile
+Mon Dec 26 17:24:42 2022 UTC - PNG load warning iCCP: known incorrect sRGB profile
+Mon Dec 26 17:24:42 2022 UTC - PNG load warning iCCP: known incorrect sRGB profile
+Mon Dec 26 17:24:46 2022 UTC - SetScreenSize from (2560, 1440) to ( 1920, 1080 )
+Mon Dec 26 17:24:46 2022 UTC - Changing resolution from (2560, 1440) to (1920, 1080)
+Mon Dec 26 17:24:50 2022 UTC - Detected possibly crashed/killed game, exiting
+Mon Dec 26 17:24:50 2022 UTC - Shutting down overlay
